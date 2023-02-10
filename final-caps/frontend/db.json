@@ -1,0 +1,166 @@
+{
+  "amount": [
+    {
+      "value": "100",
+      "fromCurrency": "INR",
+      "toCurrency": "GBP",
+      "convertedValue": 0.9939999999999999,
+      "id": 1
+    },
+    {
+      "senderAcc": "123456",
+      "receiverAcc": "456789",
+      "value": "100",
+      "fromCurrency": "INR",
+      "toCurrency": "GBP",
+      "convertedValue": 0.9939999999999999,
+      "id": 2
+    },
+    {
+      "senderAcc": 123456,
+      "receiverAcc": 456789,
+      "value": 100,
+      "fromCurrency": "inr",
+      "toCurrency": "gbp",
+      "convertedValue": null,
+      "id": 3
+    },
+    {
+      "senderAcc": 123456,
+      "receiverAcc": 456789,
+      "value": 100,
+      "fromCurrency": "INR",
+      "toCurrency": "GBP",
+      "convertedValue": 0.9939999999999999,
+      "id": 4
+    },
+    {
+      "senderAcc": 10000,
+      "receiverAcc": 456789,
+      "value": 1000,
+      "fromCurrency": "inr",
+      "toCurrency": "GBP",
+      "convertedValue": 9.94,
+      "id": 5
+    },
+    {
+      "senderAcc": 123456,
+      "receiverAcc": 456789,
+      "value": 1000,
+      "fromCurrency": "inr",
+      "toCurrency": "gbp",
+      "convertedValue": null,
+      "id": 6
+    },
+    {
+      "senderAcc": 123456,
+      "receiverAcc": 456789,
+      "value": 100,
+      "fromCurrency": "INR",
+      "toCurrency": "GBP",
+      "convertedValue": null,
+      "id": 7
+    },
+    {
+      "senderAcc": 123456,
+      "receiverAcc": 456789,
+      "value": 100,
+      "fromCurrency": "INR",
+      "toCurrency": "GBP",
+      "convertedValue": null,
+      "id": 8
+    },
+    {
+      "senderAcc": 123456,
+      "receiverAcc": 456789,
+      "value": 100,
+      "fromCurrency": "GBP",
+      "toCurrency": "USD",
+      "convertedValue": 124,
+      "id": 9
+    },
+    {
+      "senderAcc": 123456,
+      "receiverAcc": 456789,
+      "value": 100,
+      "fromCurrency": "INR",
+      "toCurrency": "USD",
+      "convertedValue": 1.23,
+      "id": 10
+    },
+    {
+      "senderAcc": 123456,
+      "receiverAcc": 456789,
+      "value": 100,
+      "fromCurrency": "INR",
+      "toCurrency": "USD",
+      "convertedValue": null,
+      "id": 11
+    },
+    {
+      "senderAcc": 123456,
+      "receiverAcc": 456789,
+      "value": 100,
+      "fromCurrency": "INR",
+      "toCurrency": "USD",
+      "convertedValue": null,
+      "id": 12
+    },
+    {
+      "senderAcc": 123456,
+      "receiverAcc": 456789,
+      "value": 100,
+      "fromCurrency": "INR",
+      "toCurrency": "GBP",
+      "convertedValue": 0.9939999999999999,
+      "id": 13
+    },
+    {
+      "accNo": 1230,
+      "amt": 10000,
+      "id": 14
+    },
+    {
+      "accNo": 1230,
+      "amt": 10000,
+      "id": 15
+    },
+    {
+      "accNo": 1230,
+      "amt": 10000,
+      "id": 16
+    },
+    {
+      "accNo": 1230,
+      "amt": 10000,
+      "id": 17
+    },
+    {
+      "senderAcc": 123456,
+      "receiverAcc": 456789,
+      "value": 1000,
+      "fromCurrency": "INR",
+      "toCurrency": "USD",
+      "convertedValue": 12.3,
+      "id": 18
+    },
+    {
+      "senderAcc": 123456,
+      "receiverAcc": 456789,
+      "value": 1000,
+      "fromCurrency": "USD",
+      "toCurrency": "INR",
+      "convertedValue": 81590,
+      "id": 19
+    },
+    {
+      "senderAcc": 123456,
+      "receiverAcc": 456789,
+      "value": 1000,
+      "fromCurrency": "USD",
+      "toCurrency": "GBP",
+      "convertedValue": 807,
+      "id": 20
+    }
+  ]
+}

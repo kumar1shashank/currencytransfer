@@ -1,0 +1,40 @@
+{
+  "user": [
+    {
+      "fname": "amit",
+      "lname": "gupta",
+      "email": "amit@yahoo.com",
+      "password": "Amit*1507",
+      "confPassword": "Amit*1507",
+      "accNo": "1234",
+      "id": 1
+    },
+    {
+      "fname": "viaj",
+      "lname": "gupta",
+      "email": "vijay@gmail.com",
+      "password": "Vijay*1111",
+      "confPassword": "Vijay*1111",
+      "balance":"5400",
+      "id": 2
+    },
+    {
+      "fname": "ram",
+      "lname": "yadav",
+      "email": "Ram@gmzail.com",
+      "cuspass": "Ram-1234",
+      "confirmpass": "Ram-1234",
+      "id": 3
+    },
+    {
+      "username": "Ram@gmzail.com",
+      "password": "Ram-1234",
+      "id": 4
+    },
+    {
+      "username": "Ram@gmzail.com",
+      "password": "Ram-1234",
+      "id": 5
+    }
+  ]
+}
